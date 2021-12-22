@@ -1,0 +1,21 @@
+{
+  "name": "healthy-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node backend/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skmprohunt/healthy-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skmprohunt/healthy-dev/issues"
+  },
+  "homepage": "https://github.com/skmprohunt/healthy-dev#readme"
+}
